@@ -1,4 +1,4 @@
-# Mechanics of Bio-Mediated Rocks for Underground Infrastructure
+# Multiscale Mechanics of Bio-Mediated Rocks for Underground Infrastructure
 
 This repository contains all the data needed to reproduce the results presented in our published project papers as follows:
 
